@@ -1,0 +1,10 @@
+{
+  "name": "face-vault",
+  "version-string": "1.0",
+  "dependencies": [
+    {
+      "name": "opencv4",
+      "features": ["contrib"]
+    }
+  ]
+}
