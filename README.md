@@ -21,9 +21,3 @@ The Face Recognition System supports people registering their faces recognizing 
 5. Run the file
 
 The file `haarcascade_frontalface_default.xml` needs to be in the same directory as the executable file.
-
-In near Future
-- Store user information, in a database
-- Use learning to make the system more accurate
-- Create a graphical user interface
-- Allow users to log in from the cloud
